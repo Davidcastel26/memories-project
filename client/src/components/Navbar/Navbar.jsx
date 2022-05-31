@@ -1,6 +1,9 @@
 import React from 'react'
 import {AppBar, Typography} from '@material-ui/core'
-import useStyles from './styles'
+
+//my own
+import memories from '../../images/memories.png';
+import useStyles  from './styles'
 
 const Navbar = () => {
 
